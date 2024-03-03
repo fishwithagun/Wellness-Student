@@ -1,0 +1,97 @@
+.header {padding:20px; background-color:#000128 !important;}
+.header a {color:white;}
+
+.headerlink {padding:0px 60px 0px 60px;}
+.logo img {height:50px; margin:0px 15px 0px 0px;}
+.bodyform{margin:20px 60px;}
+
+body {background-color: #89aab6; }
+
+.border { border:1px solid red !important; }
+
+#mission { 
+  margin-top: 20px; 
+  margin-bottom: 20px; 
+  margin-right: 350px; 
+  margin-left: 200px; }
+
+body {
+  font-family: Arial, sans-serif;
+  background: rgb(242,187,94);
+  background: linear-gradient(90deg, rgba(242,187,94,1) 43%, rgba(242,120,94,1) 100%);
+  /*background-color: #f4f4f4;*/
+}
+.login-container {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 100px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.login-container h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.form-group {
+  margin-bottom: 20px;
+}
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+.form-group input[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+.form-group input[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+.main-body{
+  margin: 30px 50px;
+}
+
+
+/*Pomodoro Style */
+.pomodoro-body{
+  padding: 100px 0px;
+}
+
+.pomodoro p{
+  font-size:3em;
+}
+
+.pomodoro-info {
+  padding:50px 110px;
+  text-align: center;
+}
+
+#demobox1 {
+  background-color: #f2795d;
+  padding: 2px ;
+  border: 3px solid black ;
+  border-radius: 25px;
+  margin: 50px;
+}
+#demobox2 {
+  background-color: #f2bb5e ;
+  padding: 2px ;
+  border: 3px solid black ;
+  border-radius: 25px;
+  margin: 50px;
+}
+
+#demobox3 {
+  background-color: #76c891 ;
+  padding: 2px ;
+  border: 3px solid black ;
+  border-radius: 25px;
+  margin: 50px;
+}
+
